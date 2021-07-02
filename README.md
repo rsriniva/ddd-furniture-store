@@ -1,2 +1,2 @@
 # ddd-furniture-store
-Code for the Python DDD book
+Code for the book "Archtecture Patterns with Python"
